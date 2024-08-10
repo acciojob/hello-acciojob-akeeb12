@@ -9,8 +9,8 @@
 .hello-accio
 {
 	color:#ffffff;
-	left:32px;
-	padding:10px;
+	left-margin:32px;
+	padding:10px 10px 10px 10px;
 }
 
 
